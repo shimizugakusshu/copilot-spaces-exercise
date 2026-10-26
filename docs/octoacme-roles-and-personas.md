@@ -74,7 +74,106 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Coordination via project boards and meeting facilitation
 
 ---
+## Technical Lead / Architecture Owner
 
+### Role Summary
+Technical Leads own the technical direction and architectural decisions of a project. They guide Developers and coordinate cross-team technical decisions.
+
+### Responsibilities
+- Define architecture and technical standards
+- Review major design decisions and technical trade-offs
+- Identify technical dependencies and risks
+- Support Developers with complex implementation decisions
+
+### Goals
+- Maintain scalable and maintainable architecture
+- Reduce technical risks and rework
+- Align implementation with business requirements
+
+### Typical Communication
+- Architecture reviews with Developers
+- Technical trade-off discussions with Product Managers
+- Risk and dependency updates to Project Managers
+
+---
+
+## Quality Assurance Engineer / Test Lead
+
+### Role Summary
+QA Engineers define testing strategies, validate requirements, and assess product quality before release.
+
+### Responsibilities
+- Create test plans and regression testing strategies
+- Verify acceptance criteria and investigate defects
+- Report quality risks and test results
+- Assess release readiness from a quality perspective
+
+### Goals
+- Detect defects early
+- Improve test coverage and reliability
+- Prevent avoidable production issues
+
+### Typical Communication
+- Defect triage with Developers
+- Acceptance criteria reviews with Product Managers
+- Quality and release-readiness reports to Project Managers
+
+---
+
+## Release Manager / Deployment Coordinator
+
+### Role Summary
+Release Managers coordinate deployment planning, operational readiness, and release execution across teams.
+
+### Responsibilities
+- Maintain release schedules and deployment checklists
+- Coordinate engineering, QA, and operations activities
+- Prepare rollback and contingency plans
+- Communicate release status and deployment risks
+
+### Goals
+- Deliver predictable and reliable releases
+- Minimize deployment-related disruptions
+- Ensure operational readiness and clear handoffs
+
+### Typical Communication
+- Release planning with Project Managers
+- Deployment coordination with Developers and QA Engineers
+- Release updates to Product Managers and stakeholders
+
+---
+
+## Business Analyst / Stakeholder Liaison
+
+### Role Summary
+Business Analysts translate stakeholder needs into clear, actionable requirements and support alignment between business and delivery teams.
+
+### Responsibilities
+- Gather and clarify stakeholder requirements
+- Document workflows, business rules, and acceptance criteria
+- Identify gaps and ambiguities in requirements
+- Coordinate requirement changes with delivery teams
+
+### Goals
+- Improve requirement clarity and traceability
+- Reduce misunderstandings and rework
+- Keep project delivery aligned with business outcomes
+
+### Typical Communication
+- Requirements workshops with stakeholders
+- Backlog refinement with Product Managers and Developers
+- Scope and dependency discussions with Project Managers
+
+---
+
+## Cross-Role Collaboration
+
+- Developers implement and test features, while Technical Leads guide architecture and technical standards.
+- Product Managers prioritize customer and business outcomes, while Business Analysts translate needs into testable requirements.
+- Project Managers coordinate schedules, risks, and dependencies, while Release Managers coordinate deployment execution and operational readiness.
+- QA Engineers validate acceptance criteria and report quality risks to Developers, Product Managers, and Project Managers.
+
+---
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
